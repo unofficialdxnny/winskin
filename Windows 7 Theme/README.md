@@ -51,3 +51,5 @@
   <p align="center">
     <img src="https://icdn.digitaltrends.com/image/digitaltrends/cropped-windows-7-wallpaper-768x511.jpg">
   </p>
+  
+  # Hide Cortana and Task View or ugly
