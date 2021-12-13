@@ -8,3 +8,17 @@
 - <a href="https://github.com/unofficialdxnny/winskin/tree/main/Windows%20XP%20Theme">Windows XP</a>
 - <a href="https://github.com/unofficialdxnny/winskin/tree/main/Windows%207%20Theme">Windows 7</a>
 
+
+## Contributing
+
+- Download the Repo
+- Add your Themes (make sure it is in similar format to the other themes README.md)
+- Create a pull request
+- Push your request
+- Ill mergee it after :) 
+- Also you will geet credit
+
+
+## Contact
+
+<a href="https://discord.gg/E37mmPs49A">Discord Server</a>
