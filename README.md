@@ -6,3 +6,5 @@
 ## Contents
 
 - <a href="https://github.com/unofficialdxnny/winskin/tree/main/Windows%20XP%20Theme">Windows XP</a>
+- <a href="https://github.com/unofficialdxnny/winskin/tree/main/Windows%207%20Theme">Windows 7</a>
+
