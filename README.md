@@ -16,7 +16,7 @@
 - Create a pull request
 - Push your request
 - Ill mergee it after :) 
-- Also you will geet credit
+- Also you will get credit
 
 
 ## Contact
