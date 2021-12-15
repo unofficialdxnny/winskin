@@ -23,4 +23,3 @@
 ## Contact
 
 <a href="https://discord.gg/E37mmPs49A">Discord Server</a>
-test
