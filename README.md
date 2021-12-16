@@ -25,3 +25,4 @@
 ## Contact
 
 <a href="https://discord.gg/E37mmPs49A">Discord Server</a>
+<a href="https://instagram.com/unofficialdxnny">Instagram</a>
