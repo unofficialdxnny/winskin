@@ -18,7 +18,7 @@
 - Add your Themes (make sure it is in similar format to the other themes README.md)
 - Create a pull request
 - Push your request
-- Ill mergee it after :) 
+- I'll merge it after :) 
 - Also you will get credit
 
 
