@@ -1,4 +1,4 @@
-<h1 align="center">Windows 11 Theme</h1>
+<h1 align="center">Windows 11 Theme <img src="11.png" align="center"></h1>
 
 ## Wallpapers
 
