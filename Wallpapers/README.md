@@ -8,6 +8,13 @@
 
 ----
 
+
+<p align="center">
+  <img src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/11/wallpaper-windows-11-se.png">
+       </p>
+       
+----
+
 <p align="center">
   <img src="https://c4.wallpaperflare.com/wallpaper/974/565/254/windows-11-windows-10-minimalism-hd-wallpaper-preview.jpg">
        </p>
