@@ -2,6 +2,12 @@
 
 ----
 
+<p aling="center">
+  <img src="https://cdn.wallpapersafari.com/96/87/akiW8x.jpg">
+</p>
+
+----
+
 <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/940586530515504757/CDDE77CB810474E1C07B945E40AE4713141AFD76/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
        </p>
