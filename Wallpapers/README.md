@@ -3,7 +3,7 @@
 ----
 
 <p align="center">
-  <img src="https://docs.wallpaperengine.io/img/Wallpaper_Engine_Logo_Animated.gif">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/940586530515504757/CDDE77CB810474E1C07B945E40AE4713141AFD76/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
        </p>
 
 ----
