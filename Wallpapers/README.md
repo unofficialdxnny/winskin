@@ -4,6 +4,12 @@
 
 ----
 <p align="center">
+  <img src="https://9to5mac.com/2014/08/18/here-are-all-of-os-x-yosemites-beautiful-new-wallpapers/yosemite-4/">
+</p>
+
+----
+
+<p align="center">
   <img src="https://www.lifewire.com/thmb/2eb72KeTI208avqjSp9j32DtCTk=/1067x800/smart/filters:no_upscale()/vladstudio-library-wallpaper-5919cd763df78cf5fa3d7e27.jpg">
 </p>
   
