@@ -5,11 +5,17 @@
 ----
 <p align="center">
   <img src="https://www.lifewire.com/thmb/2eb72KeTI208avqjSp9j32DtCTk=/1067x800/smart/filters:no_upscale()/vladstudio-library-wallpaper-5919cd763df78cf5fa3d7e27.jpg">
-  </p>
+</p>
   
   
 ----
   
+<p align="center">
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Every-Mac-wallpaper.jpeg?quality=82&strip=all">
+</p>
+
+---- 
+
 <p align="center">
   <img src="https://www.androidguys.com/wp-content/uploads/2015/12/Wave-Wallpapers-1.jpg">
 </p>
